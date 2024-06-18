@@ -1,5 +1,5 @@
 # Guiding-DIP-Early-Stopping-with-DDPM-inspired-Supervision
-本repo涵蓋基於DIP基礎上增加DDPM噪音方法的實作，透過漸進式給予多到少噪音的圖片，藉以引導DIP學習噪音的特徵。第一部分Implementation(I).ipynb包含原始DIP與加上噪音所產生的問題，==第二部分Implementation(II).ipynb則解決問題與最終結果。==
+本repo涵蓋基於DIP基礎上增加DDPM噪音方法的實作，透過漸進式給予多到少噪音的圖片，藉以引導DIP學習噪音的特徵。第一部分Implementation(I).ipynb包含原始DIP與加上噪音所產生的問題，第二部分Implementation(II).ipynb則解決問題與最終結果。
 
 
 
